@@ -1,0 +1,15 @@
+export default {
+	Horno_o_Microondas: false,
+	Cocina: false,
+	Heladera: false,
+	Vajilla: false,
+	Secador_de_pelo: false,
+	Utensilios_de_cocina: false,
+	Calefaccion: false,
+	Aire_acondicionado: false,
+	Television: false,
+	Wi_Fi: false,
+	Jacuzzi: false,
+	Parrilla: false,
+	Cochera: false,
+}

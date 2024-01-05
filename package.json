@@ -1,0 +1,42 @@
+{
+  "name": "hueney-ruca",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@stripe/stripe-js": "^1.52.1",
+    "@supabase/auth-helpers-nextjs": "^0.6.1",
+    "@supabase/auth-helpers-react": "^0.3.1",
+    "@supabase/auth-ui-react": "^0.3.5",
+    "@supabase/supabase-js": "^2.10.0",
+    "axios": "^1.3.6",
+    "dayjs": "^1.11.7",
+    "gsap": "^3.11.5",
+    "next": "^13.5.6",
+    "next-redux-wrapper": "^8.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-slick": "^0.29.0",
+    "react-tailwindcss-datepicker": "^1.6.1",
+    "react-toastify": "^9.1.2",
+    "remixicon": "^3.2.0",
+    "slick-carousel": "^1.8.1",
+    "stripe": "^12.3.0",
+    "sweetalert2": "^11.4.8",
+    "tailwind-datepicker-react": "^1.3.0",
+    "tailwindcss": "^3.3.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "eslint": "8.39.0",
+    "eslint-config-next": "13.3.1",
+    "postcss": "^8.4.23"
+  }
+}

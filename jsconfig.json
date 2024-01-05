@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",           // Hacer ...from 'components/Form'; en lugar de ...from '../../components/Form';
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}
